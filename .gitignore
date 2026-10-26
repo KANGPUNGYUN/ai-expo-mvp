@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.gstack/
+.DS_Store
+.local-references/
+# Blender 중간 산출물: 배포본은 public/models 의 WebP/MP4 이며 previews 는 재생성 가능합니다.
+scripts/previews/
+*.blend1
